@@ -1,0 +1,8 @@
+# Salesforce CLI local state
+.sf/
+
+# Node.js dependencies
+node_modules/
+
+# macOS files
+.DS_Store
